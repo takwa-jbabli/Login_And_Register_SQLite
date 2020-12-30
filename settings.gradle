@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Login_And_Register_SQLite"
